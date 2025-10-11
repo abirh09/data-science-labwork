@@ -1,0 +1,2 @@
+# data-science-labwork
+This repository contains a collection of lab exercises, assignments, and practical implementations completed as part of my Master’s degree program. Topics covered span core methods and algorithms in data analysis and data mining, machine learning (including advanced techniques and optimization), statistical modelling and inference (including Bayesian approaches), decision analysis under uncertainty, and implementation of algorithms (with a focus on explainable models) using Python, R, and Jupyter Notebooks.
